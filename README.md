@@ -4,3 +4,7 @@ Create your unique online avatar.!
 Ever wanted a cool unique Avatar for your profile. AvatarGen is the answer.
 If you have a unique name, then feed it in then you get you super cool avatar.
 Completely written in _Python 3_. Uses PIL(Python Imaging Library).
+
+
+Example:
+![Avatar of hussain](https://www.dropbox.com/s/347cfdtacitieih/avatar-2015-08-12_21h_19m_55s-500px.png?dl=0)
