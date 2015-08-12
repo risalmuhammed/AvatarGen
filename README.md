@@ -7,4 +7,4 @@ Completely written in _Python 3_. Uses PIL(Python Imaging Library).
 
 
 Example:
-![Avatar of hussain](risalmuhammed.github.com/AvatarGen/avatar/avatar-2015-08-12_21h_19m_55s-500px.png)
+![Avatar of hussain](https://github.com/risalmuhammed/AvatarGen/blob/master/avatar/avatar-2015-08-12_21h_19m_55s-500px.png)
